@@ -2,7 +2,7 @@
 
 ###  博客类：
 
-个人博客![](https://zhanhongzhu.top)：https://zhanhongzhu.top
+个人博客![](https://zhanhongzhu.top)：<a target="_blank" href="https://zhanhongzhu.top"></a>
 
 个人网站![](https://zhanhongzhu.gitee.io)：https://zhanhongzhu.gitee.io
 
